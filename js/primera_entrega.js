@@ -6,7 +6,6 @@ let inventario = [
     { nombre:"Producto 2", precio: 30, cantidad: 5 },
 
 ];
-alert(inventario[0].nombre);
 do{
     opcion=Number(prompt(`Bienvenido \n
     1. Mostrar inventario \n
